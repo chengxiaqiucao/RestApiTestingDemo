@@ -1,0 +1,20 @@
+[
+  {
+    "name": "成功执行的测试", 
+    "matchedStatuses": ["passed"] 
+  },
+  {
+    "name": "匹配信息不一致",
+    "messageRegex": ".*expect.*", 
+	"matchedStatuses": ["broken", "failed"]
+  },
+  {
+    "name": "未找到对应类",
+    "traceRegex": ".*FileNotFoundException.*", 
+    "matchedStatuses": ["broken"]
+	},
+  {
+    "name": "执行失败的用例",
+    "matchedStatuses": ["broken","failed"]
+  }
+]
