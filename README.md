@@ -1,5 +1,4 @@
 # RestApiTestingDemo
-For course [Java接口自动化测试实战](https://coding.imooc.com/class/288.html)
 
 欢迎关注本人公众号：秋草说测试，定期更新测试干货 ：）
 
