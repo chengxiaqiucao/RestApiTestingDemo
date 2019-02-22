@@ -1,5 +1,8 @@
 # RestApiTestingDemo
 
+慕课网实战课程 [主流技术栈的Restful API接口测试实战](https://coding.imooc.com/class/288.html)
+
+
 欢迎关注本人公众号：秋草说测试，定期更新测试干货 ：）
 
 ----
